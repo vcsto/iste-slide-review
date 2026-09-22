@@ -5,14 +5,16 @@ A static comparison site for the Teaching Channel Video Platform application, re
 ## Review contents
 
 - All 67 original slides and their proposed counterparts.
-- 135 suggestions across 59 slides, including presenter-note changes.
+- 35 clear corrections across 28 slides, including presenter-note changes.
 - Original order, most-serious-first, and highest-confidence-first rankings.
-- Search, filters, text differences, enlarged slides, explanations, and original evidence-link status.
+- Search, filters, text differences, enlarged slides, explanations, and high-confidence explanations.
 - Original and revised PowerPoint downloads, a 66-page visible-slide PDF, and the complete change log.
 
-This is a proposed review copy, not an approved or submission-ready application. Thirty-seven slides retain evidence or verification actions. The original is preserved. Original slide 64 remains hidden in PowerPoint and is excluded from the PDF. Optional 1.8 is replaced with 2.7 Content Customization; those two slides move into Learning Design. All comparisons use the original slide number as the stable identifier.
+This focused revision retains only clear errors, criterion/notes mismatches, out-of-scope course material, claims that conflict with their cited source, and obvious typos or formatting errors. Untested workflows, optional polishing, and speculative evidence requests are excluded. It is not a pass/fail assessment.
 
-Priority reflects potential impact on the application. Confidence reflects support for a recommendation, not an ISTE passing score. Slide priority uses the highest impact of its suggestions or open issues; confidence uses the lowest recommendation confidence. Ties use the other rating and then original slide number.
+All 67 slides retain their original order and indicator selection. Thirty-nine slides are unchanged. Original slide 64 remains hidden and is excluded from the PDF. Course/Canvas evidence on slides 39?42 is replaced with Video Platform screenshots already present in the original deck. The interface defaults to showing only slides with fixes.
+
+Priority reflects potential impact on the application. Confidence reflects support for a recommendation, not an ISTE passing score. Only high-confidence corrections are included. Slide priority uses the highest impact of its retained corrections. Ties use the other rating and then original slide number.
 
 ## Run locally
 
@@ -28,4 +30,4 @@ Only the intended static site files belong in this repository. The source applic
 
 The local browser check exercised all 67 slide, text, and notes views; all sort modes; filters and search; hidden-slide handling; highlights and enlargement; downloads; URL state; and desktop/mobile layouts. Package checks confirmed valid relationship references, the hidden state, original file hash, and 66 visible PDF pages. The full revised deck was rendered and visually inspected.
 
-The generated review data and build manifest in `downloads/` record slide mapping, rationale, and input/output hashes. Presenter notes identify the evidence source and remaining verification limits.
+The generated review data and build manifest in `downloads/` record slide mapping, rationale, and input/output hashes. Presenter notes are changed only to correct clear mismatches or out-of-scope references.
