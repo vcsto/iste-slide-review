@@ -2,7 +2,7 @@
 
 This focused revision includes concrete errors, scope mismatches, and obvious text/formatting fixes. It excludes optional polishing, untested workflows, and speculative evidence-strengthening advice. It is not a pass/fail assessment.
 
-35 corrections across 28 slides. The remaining slides are unchanged.
+33 corrections across 28 slides. The remaining slides are unchanged.
 
 Original order and indicator selection are preserved. Hidden slide 64 remains hidden. Course/Canvas slides use existing Video Platform screenshots from the original deck.
 
@@ -163,10 +163,8 @@ No clear-cut correction included in this focused review.
 
 Priority: Medium. Recommendation confidence: High.
 
-Assignment creation checks the CreateAssignments permission; the reviewed educator account did not have that permission. The original gives creation and review access to roles without accounting for the explicit permission check. The sampled notes video shows Canvas course modules rather than the Video Platform assignment workflow.
+The sampled notes video shows Canvas course modules rather than the Video Platform assignment workflow.
 
-- Identify who can create assignments (slide): Assignment creation checks the CreateAssignments permission; the reviewed educator account did not have that permission.
-- Separate assignment creation from completion (slide): The original gives creation and review access to roles without accounting for the explicit permission check.
 - Remove the Canvas chunking video (notes): The sampled notes video shows Canvas course modules rather than the Video Platform assignment workflow.
 
 ## Original 22 → revised 22: 2.4 Content Type

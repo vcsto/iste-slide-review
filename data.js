@@ -723,47 +723,9 @@ window.reviewSlides = [
     "originalTitle": "2.3 Chunking",
     "indicator": "2.3",
     "category": "Revised",
-    "summary": "Assignment creation checks the CreateAssignments permission; the reviewed educator account did not have that permission. The original gives creation and review access to roles without accounting for the explicit permission check. The sampled notes video shows Canvas course modules rather than the Video Platform assignment workflow.",
-    "finding": "Assignment creation checks the CreateAssignments permission; the reviewed educator account did not have that permission. The original gives creation and review access to roles without accounting for the explicit permission check. The sampled notes video shows Canvas course modules rather than the Video Platform assignment workflow.",
+    "summary": "The sampled notes video shows Canvas course modules rather than the Video Platform assignment workflow.",
+    "finding": "The sampled notes video shows Canvas course modules rather than the Video Platform assignment workflow.",
     "changes": [
-      {
-        "shape": 326,
-        "after": "2.3 Chunking\n\nTeaching Channel has several tools designed to support chunking by allowing authorized assignment creators to break larger assignments and professional learning experiences into clearly defined topics and modules. Instead of presenting learners with one lengthy task, assignment creators can organize content into smaller, focused sections that guide learners through the experience at a manageable pace.\n\n\n",
-        "label": "Identify who can create assignments",
-        "why": "Assignment creation checks the CreateAssignments permission; the reviewed educator account did not have that permission.",
-        "severity": "Medium",
-        "confidence": "High",
-        "type": "slide",
-        "before": "2.3 Chunking\n\nTeaching Channel has several tools designed to support chunking by allowing educators to break larger assignments and professional learning experiences into clearly defined topics and modules. Instead of presenting learners with one lengthy task, educators can organize content into smaller, focused sections that guide learners through the experience at a manageable pace.\n\n\n",
-        "rect": [
-          5.33,
-          6.72,
-          90.61,
-          40.35
-        ],
-        "evidence": "Controllers/AssignmentController.cs:75,110; September 22 educator and coach views; sampled old notes video showing Canvas modules.",
-        "confidenceReason": "Direct source, observed interface, or implementation supports this correction.",
-        "severityReason": "Improves claim accuracy or reviewer interpretation."
-      },
-      {
-        "shape": 330,
-        "after": "Using the Assignment Maker, authorized users can create assignments by organizing goals, tasks, and learning modules. This provides a structured way for educators to set goals, engage in meaningful activities, and document progress aligned to their practice. Users with the appropriate permissions can access assignments to monitor progress, provide feedback, and support ongoing professional growth.",
-        "label": "Separate assignment creation from completion",
-        "why": "The original gives creation and review access to roles without accounting for the explicit permission check.",
-        "severity": "Medium",
-        "confidence": "High",
-        "type": "slide",
-        "before": "Using the Assignment Maker, educators can create and complete assignments by organizing goals, tasks, and learning modules. This provides a structured way for educators to set goals, engage in meaningful activities, and document progress aligned to their practice. Administrators can access assignments to monitor progress, provide feedback, and support ongoing professional growth.",
-        "rect": [
-          52.66,
-          62.98,
-          27.3,
-          29.6
-        ],
-        "evidence": "Controllers/AssignmentController.cs:75,110; September 22 educator and coach views; sampled old notes video showing Canvas modules.",
-        "confidenceReason": "Direct source, observed interface, or implementation supports this correction.",
-        "severityReason": "Improves claim accuracy or reviewer interpretation."
-      },
       {
         "after": "2.3 Chunking\nThe product presents content within an activity, lesson, or page in chunks (pieces, bites, modules, etc.) that are appropriate for the learner and the topic.\nLook fors: (a) Content and/or activities are appropriate in length and depth to optimize retention and minimize cognitive load. (b) in general, no presence of long “run-on” pages, sections, or videos that could effectively be chunked.\n",
         "label": "Remove the Canvas chunking video",
@@ -773,7 +735,7 @@ window.reviewSlides = [
         "before": "2.3 Chunking\nThe product presents content within an activity, lesson, or page in chunks (pieces, bites, modules, etc.) that are appropriate for the learner and the topic.\nLook fors: (a) Content and/or activities are appropriate in length and depth to optimize retention and minimize cognitive load. (b) in general, no presence of long “run-on” pages, sections, or videos that could effectively be chunked.\n\nCourses mentioned in the video: 5286 (Modules 1 and 2); 5227 (All 10 modules; Module 3)\n\nLink to video: \n2.3 Chunking Video",
         "confidence": "High",
         "rect": null,
-        "evidence": "Controllers/AssignmentController.cs:75,110; September 22 educator and coach views; sampled old notes video showing Canvas modules.",
+        "evidence": "The sampled notes video shows Canvas course modules; this application covers the Video Platform.",
         "confidenceReason": "Direct source, observed interface, or implementation supports this correction.",
         "severityReason": "Improves claim accuracy or reviewer interpretation."
       }
@@ -789,9 +751,9 @@ window.reviewSlides = [
     "originalNotes": "2.3 Chunking\nThe product presents content within an activity, lesson, or page in chunks (pieces, bites, modules, etc.) that are appropriate for the learner and the topic.\nLook fors: (a) Content and/or activities are appropriate in length and depth to optimize retention and minimize cognitive load. (b) in general, no presence of long “run-on” pages, sections, or videos that could effectively be chunked.\n\nCourses mentioned in the video: 5286 (Modules 1 and 2); 5227 (All 10 modules; Module 3)\n\nLink to video: \n2.3 Chunking Video",
     "revisedNotes": "2.3 Chunking\nThe product presents content within an activity, lesson, or page in chunks (pieces, bites, modules, etc.) that are appropriate for the learner and the topic.\nLook fors: (a) Content and/or activities are appropriate in length and depth to optimize retention and minimize cognitive load. (b) in general, no presence of long “run-on” pages, sections, or videos that could effectively be chunked.\n",
     "originalText": "2.3 Chunking\nTeaching Channel has several tools designed to support chunking by allowing educators to break larger assignments and professional learning experiences into clearly defined topics and modules. Instead of presenting learners with one lengthy task, educators can organize content into smaller, focused sections that guide learners through the experience at a manageable pace.\nOPTIONAL\nUsing the Assignment Maker, educators can create and complete assignments by organizing goals, tasks, and learning modules. This provides a structured way for educators to set goals, engage in meaningful activities, and document progress aligned to their practice. Administrators can access assignments to monitor progress, provide feedback, and support ongoing professional growth.",
-    "revisedText": "2.3 Chunking\n\nTeaching Channel has several tools designed to support chunking by allowing authorized assignment creators to break larger assignments and professional learning experiences into clearly defined topics and modules. Instead of presenting learners with one lengthy task, assignment creators can organize content into smaller, focused sections that guide learners through the experience at a manageable pace.\n\n\n\nOPTIONAL\nUsing the Assignment Maker, authorized users can create assignments by organizing goals, tasks, and learning modules. This provides a structured way for educators to set goals, engage in meaningful activities, and document progress aligned to their practice. Users with the appropriate permissions can access assignments to monitor progress, provide feedback, and support ongoing professional growth.",
+    "revisedText": "2.3 Chunking\n\nTeaching Channel has several tools designed to support chunking by allowing educators to break larger assignments and professional learning experiences into clearly defined topics and modules. Instead of presenting learners with one lengthy task, educators can organize content into smaller, focused sections that guide learners through the experience at a manageable pace.\n\n\n\nOPTIONAL\nUsing the Assignment Maker, educators can create and complete assignments by organizing goals, tasks, and learning modules. This provides a structured way for educators to set goals, engage in meaningful activities, and document progress aligned to their practice. Administrators can access assignments to monitor progress, provide feedback, and support ongoing professional growth.",
     "links": [],
-    "source": "Controllers/AssignmentController.cs:75,110; September 22 educator and coach views; sampled old notes video showing Canvas modules."
+    "source": "The sampled notes video shows Canvas course modules; this application covers the Video Platform."
   },
   {
     "slide": 22,

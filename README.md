@@ -5,7 +5,7 @@ A static comparison site for the Teaching Channel Video Platform application, re
 ## Review contents
 
 - All 67 original slides and their proposed counterparts.
-- 35 clear corrections across 28 slides, including presenter-note changes.
+- 33 clear corrections across 28 slides, including presenter-note changes.
 - Original order, most-serious-first, and highest-confidence-first rankings.
 - Search, filters, text differences, enlarged slides, explanations, and high-confidence explanations.
 - Original and revised PowerPoint downloads, a 66-page visible-slide PDF, and the complete change log.

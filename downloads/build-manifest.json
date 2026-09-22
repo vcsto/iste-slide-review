@@ -1,6 +1,6 @@
 {
   "originalSha256": "362410fd15c2d2cf7504ea99d5fbf31cc287d909a85950409904bbb9df4eea90",
-  "revisedSha256": "472af3a3e0071d76e848928a1506d1da2d3449dfc72f7faf196044d7e21ffbf2",
+  "revisedSha256": "1310bc7607cbbb5a4ef076c5c616789ab639217e1d38cfb4f053abe8290dd9ff",
   "originalSlideCount": 67,
   "revisedOrder": [
     1,
@@ -73,7 +73,7 @@
   ],
   "editedSlides": 28,
   "pendingSlides": 0,
-  "changes": 35,
+  "changes": 33,
   "scope": "Video Platform only; clear corrections only",
   "checked": "2026-09-22",
   "optionalCandidates": [
