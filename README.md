@@ -5,14 +5,14 @@ A static comparison site for the Teaching Channel Video Platform application, re
 ## Review contents
 
 - All 67 original slides and their proposed counterparts.
-- 33 clear corrections across 28 slides, including presenter-note changes.
+- 14 retained corrections across 13 slides, including presenter-note changes.
 - Original order, most-serious-first, and highest-confidence-first rankings.
 - Search, filters, text differences, enlarged slides, explanations, and high-confidence explanations.
 - Original and revised PowerPoint downloads, a 66-page visible-slide PDF, and the complete change log.
 
 This focused revision retains only clear errors, criterion/notes mismatches, out-of-scope course material, claims that conflict with their cited source, and obvious typos or formatting errors. Untested workflows, optional polishing, and speculative evidence requests are excluded. It is not a pass/fail assessment.
 
-All 67 slides retain their original order and indicator selection. Thirty-nine slides are unchanged. Original slide 64 remains hidden and is excluded from the PDF. Course/Canvas evidence on slides 39?42 is replaced with Video Platform screenshots already present in the original deck. The interface defaults to showing only slides with fixes.
+All 67 slides retain their original order and indicator selection. Fifty-four slides are unchanged. Original slide 64 remains hidden and is excluded from the PDF. The owner removed recommendations for slides 3, 13, 18, 19, 21-25, 36, 37, and 39-42; their original slide content and notes are preserved. The interface defaults to showing only slides with fixes.
 
 Priority reflects potential impact on the application. Confidence reflects support for a recommendation, not an ISTE passing score. Only high-confidence corrections are included. Slide priority uses the highest impact of its retained corrections. Ties use the other rating and then original slide number.
 

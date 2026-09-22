@@ -2,9 +2,9 @@
 
 This focused revision includes concrete errors, scope mismatches, and obvious text/formatting fixes. It excludes optional polishing, untested workflows, and speculative evidence-strengthening advice. It is not a pass/fail assessment.
 
-33 corrections across 28 slides. The remaining slides are unchanged.
+14 corrections across 13 slides. The remaining slides are unchanged.
 
-Original order and indicator selection are preserved. Hidden slide 64 remains hidden. Course/Canvas slides use existing Video Platform screenshots from the original deck.
+Original order and indicator selection are preserved. Hidden slide 64 remains hidden. Recommendations removed at the owner’s request are restored to the original slide content and notes.
 
 ## Original 1 → revised 1: ISTE Seal of Alignment Application
 
@@ -22,11 +22,10 @@ No clear-cut correction included in this focused review.
 
 ## Original 3 → revised 3: 1.1 Value Proposition
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The application scope is Video Platform only. The paragraph also has two sentences joined without spaces.
+No clear-cut correction included in this focused review.
 
-- Remove the course reference and fix missing spaces (slide): The application scope is Video Platform only. The paragraph also has two sentences joined without spaces.
 
 ## Original 4 → revised 4: 1.2 Learnability
 
@@ -99,11 +98,10 @@ The slide is labeled 1.8, but its notes describe 1.7 Educator/Learner View. Repl
 
 ## Original 13 → revised 13: 1.9 Technical Support
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The notes include a Course Navigation Guide outside the agreed Video Platform scope. Remove that reference and keep the support links.
+No clear-cut correction included in this focused review.
 
-- Remove the course navigation reference (notes): The notes include a Course Navigation Guide outside the agreed Video Platform scope. Remove that reference and keep the support links.
 
 ## Original 14 → revised 14: 1.10 Interoperability
 
@@ -138,19 +136,17 @@ No clear-cut correction included in this focused review.
 
 ## Original 18 → revised 18: 2.1 Growth Objectives
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The notes reference a paid course and a syllabus URL that returned 404. Neither belongs in this Video Platform evidence.
+No clear-cut correction included in this focused review.
 
-- Remove the course syllabus material (notes): The notes reference a paid course and a syllabus URL that returned 404. Neither belongs in this Video Platform evidence.
 
 ## Original 19 → revised 19: 2.1 Growth Objectives (Continued)
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The notes reference a paid course and a syllabus URL that returned 404. Neither belongs in this Video Platform evidence.
+No clear-cut correction included in this focused review.
 
-- Remove the course syllabus material (notes): The notes reference a paid course and a syllabus URL that returned 404. Neither belongs in this Video Platform evidence.
 
 ## Original 20 → revised 20: 2.2 Professional Goals
 
@@ -161,43 +157,38 @@ No clear-cut correction included in this focused review.
 
 ## Original 21 → revised 21: 2.3 Chunking
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The sampled notes video shows Canvas course modules rather than the Video Platform assignment workflow.
+No clear-cut correction included in this focused review.
 
-- Remove the Canvas chunking video (notes): The sampled notes video shows Canvas course modules rather than the Video Platform assignment workflow.
 
 ## Original 22 → revised 22: 2.4 Content Type
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The sampled notes video demonstrates Canvas course content rather than the Video Platform.
+No clear-cut correction included in this focused review.
 
-- Remove the Canvas content-type video (notes): The sampled notes video demonstrates Canvas course content rather than the Video Platform.
 
 ## Original 23 → revised 23: 2.4 Content Type (Continued)
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The sampled notes video demonstrates Canvas course content rather than the Video Platform.
+No clear-cut correction included in this focused review.
 
-- Remove the Canvas content-type video (notes): The sampled notes video demonstrates Canvas course content rather than the Video Platform.
 
 ## Original 24 → revised 24: 2.4 Content Type (Continued)
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The sampled notes video demonstrates Canvas course content rather than the Video Platform.
+No clear-cut correction included in this focused review.
 
-- Remove the Canvas content-type video (notes): The sampled notes video demonstrates Canvas course content rather than the Video Platform.
 
 ## Original 25 → revised 25: 2.5 Content Adjacence
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The sampled Content Adjacence notes video shows a Canvas course rather than the Video Platform.
+No clear-cut correction included in this focused review.
 
-- Remove the course-navigation example (notes): The sampled Content Adjacence notes video shows a Canvas course rather than the Video Platform.
 
 ## Original 26 → revised 26: 2.8 Applied Examples
 
@@ -273,19 +264,17 @@ No clear-cut correction included in this focused review.
 
 ## Original 36 → revised 36: 4.3 Accessibility
 
-Priority: High. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The August 2026 VPAT explicitly identifies captioning gaps for user-uploaded videos and some explainers. “All Teaching Channel videos” conflicts with that report.
+No clear-cut correction included in this focused review.
 
-- Remove the universal caption claim (slide): The August 2026 VPAT explicitly identifies captioning gaps for user-uploaded videos and some explainers. “All Teaching Channel videos” conflicts with that report.
 
 ## Original 37 → revised 37: Assessment and Data
 
-Priority: Medium. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The Assessment and Data divider repeats the Digital Andragogy definition. This replacement uses the supplied application guide.
+No clear-cut correction included in this focused review.
 
-- Use the correct dimension definition (slide): The Assessment and Data divider repeats the Digital Andragogy definition. This replacement uses the supplied application guide.
 
 ## Original 38 → revised 38: 5.1 Assessment Alignment
 
@@ -296,39 +285,31 @@ No clear-cut correction included in this focused review.
 
 ## Original 39 → revised 39: 5.1 Assessment Alignment
 
-Priority: High. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The original slide presents a paid-course syllabus. Replace it with the Video Platform assessment workflow already shown in the team’s deck. Keep the notes consistent with the in-scope replacement screenshot and remove the old course references.
+No clear-cut correction included in this focused review.
 
-- Replace evidence and focus the claim (slide): The original slide presents a paid-course syllabus. Replace it with the Video Platform assessment workflow already shown in the team’s deck.
-- Remove the course/Canvas notes (notes): Keep the notes consistent with the in-scope replacement screenshot and remove the old course references.
 
-## Original 40 → revised 40: 5.1 Assessment Alignment (Continued)
+## Original 40 → revised 40: 5.1 Assessment Alignment
 
-Priority: High. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The original linked demonstration concerns course assessments. Replace that out-of-scope material with the platform feedback form already in the original deck. Keep the notes consistent with the in-scope replacement screenshot and remove the old course references.
+No clear-cut correction included in this focused review.
 
-- Replace evidence and focus the claim (slide): The original linked demonstration concerns course assessments. Replace that out-of-scope material with the platform feedback form already in the original deck.
-- Remove the course/Canvas notes (notes): Keep the notes consistent with the in-scope replacement screenshot and remove the old course references.
 
 ## Original 41 → revised 41: 5.4 Performance Demonstration
 
-Priority: High. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-The original slide describes paid courses and Canvas submissions. Use the Video Platform’s own upload workflow, already documented in the original deck. Keep the notes consistent with the in-scope replacement screenshot and remove the old course references.
+No clear-cut correction included in this focused review.
 
-- Replace evidence and focus the claim (slide): The original slide describes paid courses and Canvas submissions. Use the Video Platform’s own upload workflow, already documented in the original deck.
-- Remove the course/Canvas notes (notes): Keep the notes consistent with the in-scope replacement screenshot and remove the old course references.
 
-## Original 42 → revised 42: 5.4 Performance Demonstration (Continued)
+## Original 42 → revised 42: 5.4 Performance Demonstration
 
-Priority: High. Recommendation confidence: High.
+Priority: No change. Recommendation confidence: Not rated.
 
-Replace the out-of-scope Canvas submission video with the Video Platform documentation controls already shown on original slide 50. Keep the notes consistent with the in-scope replacement screenshot and remove the old course references.
+No clear-cut correction included in this focused review.
 
-- Replace evidence and focus the claim (slide): Replace the out-of-scope Canvas submission video with the Video Platform documentation controls already shown on original slide 50.
-- Remove the course/Canvas notes (notes): Keep the notes consistent with the in-scope replacement screenshot and remove the old course references.
 
 ## Original 43 → revised 43: 5.5 Feedback
 
